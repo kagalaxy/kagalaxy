@@ -29,5 +29,5 @@ In Lazarus.
 Title may change.
 ____________________________________________________________________
 **Contact**
-**Email:** kafunfuntime@gmail.com **Discord:** #ka_galaxt#9142      
+**Email:** kafunfuntime@gmail.com **Discord:** #ka_galaxy#9142      
 ____________________________________________________________________
