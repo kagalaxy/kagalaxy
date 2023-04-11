@@ -2,7 +2,7 @@ ___________________________________________________________________
 **I’m @kagalaxy**                                                
 Interests: programming, digital drawing, mixing sfx and music.     
 Known programming languages: Delphi, Pascal, CSS, HTML             
-Currently learning: C#, C++                                        
+Currently learning: C++, GameMaker Language                                        
 ___________________________________________________________________
 
 **Currently working on projects:**  
@@ -17,16 +17,16 @@ person to play in it with u      freetime while I'm not working
 (for now).                       In Lazarus.
 Currently polishing the game to 
 be playable and look good.
-___________________________________________________________________
-**ConsolasBoats: Advance**
 
-A new concept of my game to
-make it in Unity Engine (I need
-to learn C# to do it).
-Overall it's only a concept in
-freetime while I'm not working
-In Lazarus.
-Title may change.
+____________________________________________________________________
+
+**RAIDX1**
+
+This game is more like a tribute to an old flash games I were
+playing in my childhood based on genre "Shoot em' up".
+
+Currently making game playable with a survival mode.
+
 ____________________________________________________________________
 **Contact**
 **Email:** kafunfuntime@gmail.com **Discord:** #ka_galaxy#9142      
