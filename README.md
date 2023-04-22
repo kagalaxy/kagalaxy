@@ -29,5 +29,5 @@ Currently making game playable with a survival mode.
 
 ____________________________________________________________________
 **Contact**
-**Email:** kafunfuntime@gmail.com **Discord:** #ka_galaxy#9142      
+**Email:** kacper.g7615@gmail.com **Discord:** #ka_galaxy#9142      
 ____________________________________________________________________
