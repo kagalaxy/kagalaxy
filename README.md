@@ -16,7 +16,7 @@ stuff, expect you need a second  Overall it's only a concept in
 person to play in it with u      freetime while I'm not working
 (for now).                       In Lazarus.
 Currently polishing the game to 
-be playable and look good.
+be playable.
 
 ____________________________________________________________________
 
@@ -25,7 +25,8 @@ ____________________________________________________________________
 This game is more like a tribute to an old flash games I were
 playing in my childhood based on genre "Shoot em' up".
 
-Currently making game playable with a survival mode.
+Currently making game playable, enjoyable and will be available
+on itch.io
 
 ____________________________________________________________________
 **Contact**
