@@ -1,8 +1,8 @@
 ___________________________________________________________________
 **I’m @kagalaxy**                                                
 Interests: programming, digital drawing, mixing sfx and music.     
-Known programming languages: Delphi, Pascal, GML            
-Currently learning: CSS, HTML, PHP, JS                               
+Known programming languages: Delphi, Pascal, GML, HTML, CSS            
+Currently learning: PHP, JS, SQL                             
 ___________________________________________________________________
 
 **Currently working on projects:**  
