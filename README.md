@@ -16,6 +16,7 @@ Currently available and playable on itch.io
 
 ____________________________________________________________________
 **Contact** (only direct comment about my projects, no collab, etc.)
+
 **Discord:** ka_galaxy#9142    
 **Email:** kacper.g7615@gmail.com  
 ____________________________________________________________________
