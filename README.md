@@ -5,7 +5,7 @@ Known programming languages: Delphi, Pascal, GML, HTML
 Currently learning: CSS, PHP, JS, SQL                             
 ___________________________________________________________________
 
-**Currently working on projects:**  
+**Currently working on projects:**  none
 
 ____________________________________________________________________
 
@@ -15,7 +15,7 @@ Written in GML.
 Currently available and playable on itch.io
 
 ____________________________________________________________________
-**Contact**
+**Contact** (only direct comment about my projects, no collab, etc.)
 **Discord:** ka_galaxy#9142    
 **Email:** kacper.g7615@gmail.com  
 ____________________________________________________________________
