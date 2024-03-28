@@ -3,6 +3,7 @@ ___________________________________________________________________
 Interests: programming, digital drawing, mixing sfx and music.     
 Known programming languages: Delphi, Pascal, GML, HTML          
 Currently learning: CSS, PHP, JS, SQL                             
+More bio <a href="https://kagalaxy.github.io/">here<a>.
 ___________________________________________________________________
 
 **Currently working on projects:**  none
